@@ -21,7 +21,7 @@
     "@react-native-firebase/app": "^20.1.0",
     "@react-native-firebase/messaging": "^20.1.0",
     "react": "18.3.1",
-    "react-native": "0.76.4",
+    "react-native": "0.77.0",
     "react-native-permissions": "^3.10.1"
   },
   "devDependencies": {
