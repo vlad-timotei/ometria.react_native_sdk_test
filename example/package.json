@@ -17,7 +17,7 @@
     "installpods": "cd ios && RCT_NEW_ARCH_ENABLED=0 pod install"
   },
   "dependencies": {
-    "@react-native-async-storage/async-storage": "^2.0.0",
+    "@react-native-async-storage/async-storage": "^2.1.0",
     "@react-native-firebase/app": "^20.1.0",
     "@react-native-firebase/messaging": "^20.1.0",
     "react": "18.3.1",
